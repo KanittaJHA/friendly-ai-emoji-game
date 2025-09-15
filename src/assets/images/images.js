@@ -1,0 +1,48 @@
+const images = {
+  LOGO_COLOR_B:
+    "https://res.cloudinary.com/dvhhq4hhh/image/upload/v1757754613/friendly.ai-logo-color-b_bapxkb.png",
+  LOGO_COLOR_W:
+    "https://res.cloudinary.com/dvhhq4hhh/image/upload/v1757754612/friendly.ai-logo-color-w_g8iuws.png",
+  LOGO_COLOR_W_COLOR:
+    "https://res.cloudinary.com/dvhhq4hhh/image/upload/v1757754612/friendly.ai-logo-color-w_g8iuws.png",
+  ICON_COLOR:
+    "https://res.cloudinary.com/dvhhq4hhh/image/upload/v1757929427/friendly.ai-single-icon-color_dgecty.png",
+  ICON_WHITE:
+    "https://res.cloudinary.com/dvhhq4hhh/image/upload/v1757754613/friendly.ai-single-icon-w_waqipb.png",
+  ICON_BLACK:
+    "https://res.cloudinary.com/dvhhq4hhh/image/upload/v1757929526/friendly.ai-single-icon-b_fiftr2.png",
+  LANDING_HERO_BG:
+    "https://res.cloudinary.com/dvhhq4hhh/image/upload/v1757756430/Landing_Page_Hero_Section_be6qmn.png",
+  HOME_IMAGE:
+    "https://res.cloudinary.com/dvhhq4hhh/image/upload/v1757754613/home-image_gtggvz.jpg",
+  SIGNUP_IMAGE:
+    "https://res.cloudinary.com/dvhhq4hhh/image/upload/v1757754614/singup-image_pnxy9q.jpg",
+  SIGNIN_IMAGE:
+    "https://res.cloudinary.com/dvhhq4hhh/image/upload/v1757754613/singin-image_f62kwj.jpg",
+  QA_LIGHT:
+    "https://res.cloudinary.com/dvhhq4hhh/image/upload/v1757756095/Q_A-Light_Mode_Page_w8xq1o.png",
+  QA_DARK:
+    "https://res.cloudinary.com/dvhhq4hhh/image/upload/v1757756096/Q_A-Dark_Mode_Page_idkued.png",
+  ACCELERATING_IMAGE:
+    "https://res.cloudinary.com/dvhhq4hhh/image/upload/v1757754613/accelerating-imafe_bcw7w5.jpg",
+  EXPERIENCE_01:
+    "https://res.cloudinary.com/dvhhq4hhh/image/upload/v1757754613/experiences-image-01_vixppb.jpg",
+  EXPERIENCE_02:
+    "https://res.cloudinary.com/dvhhq4hhh/image/upload/v1757754613/experiences-image-02_yrgw2n.jpg",
+  EXPERIENCE_03:
+    "https://res.cloudinary.com/dvhhq4hhh/image/upload/v1757754613/experiences-image-03_dgfxs1.jpg",
+  GALLERY_1:
+    "https://res.cloudinary.com/dvhhq4hhh/image/upload/v1757755911/1_udnm7x.jpg",
+  GALLERY_2:
+    "https://res.cloudinary.com/dvhhq4hhh/image/upload/v1757755911/2_u50rjn.jpg",
+  MAN_01:
+    "https://res.cloudinary.com/dvhhq4hhh/image/upload/v1757778237/man-01_q7eu95.jpg",
+  MAN_02:
+    "https://res.cloudinary.com/dvhhq4hhh/image/upload/v1757778236/man-02_urerav.webp",
+  woman_01:
+    "https://res.cloudinary.com/dvhhq4hhh/image/upload/v1757778228/woman-01_azkq2m.png",
+  woman_02:
+    "https://res.cloudinary.com/dvhhq4hhh/image/upload/v1757778227/woman-02_irrsum.png",
+};
+
+export default images;
