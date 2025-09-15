@@ -5,7 +5,6 @@ import { RiNotification2Line, RiArrowDownSLine } from "react-icons/ri";
 const Navbar = ({ isDarkTheme }) => {
   return (
     <div className="flex items-center justify-between">
-      {/* Logo */}
       <img
         src={isDarkTheme ? images.LOGO_COLOR_W_COLOR : images.LOGO_COLOR_B}
         alt="Logo"
