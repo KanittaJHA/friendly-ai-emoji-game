@@ -508,7 +508,7 @@ const Screen = ({ isDarkTheme }) => {
 
               <div className="relative w-full h-80 bg-yellow-200 border-4 border-blue-500 rounded-xl mb-3">
                 <div className="absolute top-2 left-2 bg-blue-600 text-white px-2 py-1 text-xs rounded z-30">
-                  {stream ? "🟢 Stream Found" : "🔴 No Stream"}
+                  {stream ? "🔵 Stream Found" : "🔴 No Stream"}
                 </div>
 
                 <div className="absolute top-2 right-2 bg-purple-600 text-white px-2 py-1 text-xs rounded z-30">
