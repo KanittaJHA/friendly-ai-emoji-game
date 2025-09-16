@@ -32,10 +32,11 @@ const SideMenu = ({ isDarkTheme, setIsDarkTheme }) => {
         </div>
 
         <div className="flex flex-col gap-4 text-xl text-white mt-4">
-          <RiGamepadLine className="cursor-pointer" />
-          <RiStore2Line className="cursor-pointer" />
-          <RiGiftLine className="cursor-pointer" />
-          <RiSettings5Line className="cursor-pointer" />
+          {[RiGamepadLine, RiStore2Line, RiGiftLine, RiSettings5Line].map(
+            (Icon, i) => (
+              <Icon key={i} className="cursor-pointer" />
+            )
+          )}
         </div>
       </div>
     </div>
